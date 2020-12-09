@@ -1,6 +1,9 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
 # Datathon
 
 *Daria Gavrilova, Oscar Tomas, Toni Espadas, Víctor López*
+
 *DAFT 2020 Barcelona*
 ​
 ## Content
@@ -26,7 +29,7 @@ able to predict the quality of a cookie for Cookie Flea.​
 As we were working through a Zoom Call, the organization was divided on the go and assigning tasks based on best capabilities.
 
 The project was stored on the same GitHub repository, allowing the other members of the team being able to push / pull to keep
-everyone updated with the last data. 
+everyone updated with the last data.
 ​
 ## Links
 [Repository](https://github.com/VictorLJay/Datathon)  
